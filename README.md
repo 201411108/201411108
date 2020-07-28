@@ -27,3 +27,4 @@ Mentor for starters
 
 ## Contact me
 * Twitter : @firsteast95
+* email : sw.engineering@kakao.com
