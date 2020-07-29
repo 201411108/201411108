@@ -2,6 +2,14 @@
 
 Graduate student & newbie developer
 
+### Activate repositories
+
+* [learning_PyTorch](https://github.com/201411108/learning_PyTorch)
+
+* [learning_Kotlin](https://github.com/201411108/learning_Kotlin)
+
+* [BOJ challenge](https://github.com/201411108/BOJ-challenge)
+
 ## Interested in
 * React.js
 * Kotlin for Android
@@ -20,10 +28,11 @@ Mentor for starters
 
 2020 ~ Computer scienece master course
 
-### Products
+### Projects
 
-[My Eyes!](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
+* [My Eyes!, Android application](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
+* [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
 
 ## Contact me
 * Twitter : @firsteast95
