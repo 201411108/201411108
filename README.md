@@ -22,11 +22,7 @@ Adaptive developer, writes clean refactored codes
 
 Mentor for starters
 
-## Career
-
-2014 ~ 2020 Computer science bachelor degree
-
-2020 ~ Computer scienece master course
+### Career
 
 ### Projects
 
