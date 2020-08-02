@@ -1,6 +1,6 @@
 # Handong Kim
 
-Graduate student & newbie developer
+newbie developer
 
 ### Activate repositories
 
