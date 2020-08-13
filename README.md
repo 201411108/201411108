@@ -31,5 +31,5 @@ Mentor for starters
 * [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
 
 ## Contact me
-* Twitter : @firsteast95
+* Twitter : @firsteast95_dev
 * email : sw.engineering@kakao.com
