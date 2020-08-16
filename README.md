@@ -6,14 +6,11 @@ newbie developer
 
 * [learning_PyTorch](https://github.com/201411108/learning_PyTorch)
 
-* [learning_Kotlin](https://github.com/201411108/learning_Kotlin)
-
 * [BOJ challenge](https://github.com/201411108/BOJ-challenge)
 
 ## Interested in
-* React.js
-* Kotlin for Android
-* Swift for iOS
+* JavaScript, TypeScript
+* React.js & React Native
 * Requirements engineering
 
 ### Want to be
