@@ -30,7 +30,7 @@ Mentor for starters
 
 ### Career
 
-* 2014. ~ 2019 : Bachelor majoring Computer Science in Sangmyung Univ.
+* 2014 ~ 2019 : Bachelor degree majoring Computer Science in Sangmyung Univ.
 
 ### Projects
 
