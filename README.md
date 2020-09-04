@@ -30,6 +30,8 @@ Mentor for starters
 
 ### Career
 
+* 2014. ~ 2019 : Bachelor majoring Computer Science in Sangmyung Univ.
+
 ### Projects
 
 * [My Eyes!, Android application](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
