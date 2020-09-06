@@ -28,13 +28,15 @@ newbie developer
 
 ### Want to be
 
-Adaptive developer, writes clean refactored codes
+Adaptive developer who writes clean, refactored codes
 
 Mentor for starters
 
+Challenge for new technical stacks
+
 ### Career
 
-* 2014 ~ 2019 : Bachelor degree majoring Computer Science in Sangmyung Univ.
+* 2014 ~ 2019 : Bachelor degree in Sangmyung Univ.
 
 ### Projects
 
@@ -42,7 +44,7 @@ Mentor for starters
 
 * [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
 
-## Contact me
+## Contacts
 * Twitter : @firsteast95_dev
 * email : sw.engineering@kakao.com
 
