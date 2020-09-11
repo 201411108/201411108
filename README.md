@@ -1,7 +1,5 @@
 # Handong Kim
 
-newbie developer
-
 ### Activate repositories
 
 * [learning_PyTorch](https://github.com/201411108/learning_PyTorch)
