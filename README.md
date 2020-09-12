@@ -1,6 +1,6 @@
 # Handong Kim
 
-### Activate repositories
+### Activated repositories
 
 * [learning_PyTorch](https://github.com/201411108/learning_PyTorch)
 
@@ -27,7 +27,7 @@
 
 Adaptive developer who writes clean, refactored codes
 
-Mentor for starters
+Mentor for beginners
 
 Challenge for new technical stacks
 
