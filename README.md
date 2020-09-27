@@ -29,7 +29,7 @@ Adaptive developer who writes clean, refactored codes
 
 Mentor for beginners
 
-Challenge for new technical stacks
+Open mind for new technical stacks
 
 ### Career
 
