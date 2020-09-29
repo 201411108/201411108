@@ -33,7 +33,7 @@ Open mind for new technical stacks
 
 ### Career
 
-* 2014 ~ 2019 : Bachelor degree in Sangmyung Univ.
+* 2014 ~ 2019 : Bachelor degree(Computer science)
 
 ### Projects
 
