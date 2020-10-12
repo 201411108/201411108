@@ -51,3 +51,5 @@ Open mind person who don't fear new technical stacks
 * email : sw.engineering@kakao.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
+
+* Every Sunday -> Code free day!
