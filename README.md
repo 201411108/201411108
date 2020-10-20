@@ -52,4 +52,4 @@ Open mind person who don't fear new technical stacks
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
 
-* Every Sunday -> Code free day!
+* Every Sunday, day off
