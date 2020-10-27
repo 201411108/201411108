@@ -6,8 +6,6 @@
 
 * [BOJ challenge](https://github.com/201411108/BOJ-challenge)
 
-* [web_study](https://github.com/201411108/web_study)
-
 * [react-native toy project](https://github.com/sweatpotato13/some_project)
 
 ## Interested in
@@ -52,4 +50,4 @@ Open mind person who don't fear new technical stacks
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
 
-* Every Sunday, day off
+* Sunday, no coding day
