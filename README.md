@@ -1,12 +1,10 @@
 # Handong Kim
 
-### Activated repositories
+![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
 
-* [learning_PyTorch](https://github.com/201411108/learning_PyTorch)
 
-* [BOJ challenge](https://github.com/201411108/BOJ-challenge)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark)
 
-* [react-native toy project](https://github.com/sweatpotato13/some_project)
 
 ## Interested in
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -43,10 +41,5 @@ Open mind person who don't fear new technical stacks
 
 ## Contacts
 * email : sw.engineering@kakao.com
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
-
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark)
 
 * Sunday, no coding day
