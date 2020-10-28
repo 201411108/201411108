@@ -45,6 +45,8 @@ Open mind person who don't fear new technical stacks
 * email : sw.engineering@kakao.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
+
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark)
 
 * Sunday, no coding day
