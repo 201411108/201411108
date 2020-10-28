@@ -34,9 +34,6 @@ Mentor for beginners
 
 Open mind person who don't fear new technical stacks
 
-### Career
-
-* 2014 ~ 2019 : Bachelor degree(Computer science)
 
 ### Projects
 
@@ -45,9 +42,9 @@ Open mind person who don't fear new technical stacks
 * [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
 
 ## Contacts
-* Twitter : @firsteast95_dev
 * email : sw.engineering@kakao.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark)
 
 * Sunday, no coding day
