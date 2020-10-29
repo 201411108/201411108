@@ -20,7 +20,6 @@
 
 * JavaScript, TypeScript, React.js & React Native : Studying
 * Kotlin, Android : Launching app
-* Pytorch
 * Software engineering
 * Requirements engineering
 
