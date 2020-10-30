@@ -21,7 +21,6 @@
 * JavaScript, TypeScript, React.js & React Native : Studying
 * Kotlin, Android : Launching app
 * Software engineering
-* Requirements engineering
 
 ### Want to be
 
