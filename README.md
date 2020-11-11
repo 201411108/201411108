@@ -18,8 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-* JavaScript, TypeScript, React.js & React Native : Studying
-* Kotlin, Android : Launching app
+* JavaScript, TypeScript, React.js & React Native
+* Kotlin, Android
 * Software engineering
 
 ### Want to be
@@ -29,7 +29,6 @@ Adaptive developer who writes clean, refactored codes
 Mentor for beginners
 
 Open mind person who don't fear new technical stacks
-
 
 ### Projects
 
