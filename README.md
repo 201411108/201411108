@@ -1,34 +1,32 @@
 # Handong Kim
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
+## 🙋‍♂️Who I am?
 
+* Novice developer who
+  * aspires to <b>growing up</b>
+  * does anything to <b>improve own skills</b>
+  * wants to <b>writing clean codes</b>
+  * loves to <b>work with other developers</b>
+  * is interested in variety of areas
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark)
+* Graduate student majoring in computer science, especially software engineering
 
+<h3 align="center">Technology Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-java%20-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-kotlin-informational"/>
+  <img src="https://img.shields.io/badge/-swift-orange"/>
+  <img src="https://img.shields.io/badge/-javascript-yellow"/>
+  <img src="https://img.shields.io/badge/-typescript-blue"/>
+  <img src="https://img.shields.io/badge/-python-brightgreen"/><br>
+  <img src="https://img.shields.io/badge/-Android-informational"/>
+  <img src="https://img.shields.io/badge/-iOS-orange"/>
+  <img src="https://img.shields.io/badge/-React-yellow"/>
+  <img src="https://img.shields.io/badge/-React%20Native-blue"/><br>
+  <img src="https://img.shields.io/badge/-Agile-black"/>
+  <img src="https://img.shields.io/badge/-Git-black"/>
+</p>
 
-## Interested in
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-* JavaScript, TypeScript, React.js & React Native
-* Kotlin, Android
-* Software engineering
-
-### Want to be
-
-Adaptive developer who writes clean, refactored codes
-
-Mentor for beginners
-
-Open mind person who don't fear new technical stacks
 
 ### Projects
 
@@ -36,7 +34,14 @@ Open mind person who don't fear new technical stacks
 
 * [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
 
-## Contacts
-* email : sw.engineering@kakao.com
+### Contacts
 
-* Sunday, no coding day
+<a href="sw.engineering@kakao.com">
+  <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
+</a>
+
+### Etc.
+
+* Away from coding at Sunday
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
