@@ -28,11 +28,15 @@
 </p>
 
 
-### Projects
+### ⌨️ Projects
+
+* [React Native toy project](https://github.com/sweatpotato13/some_project)
+
+* [pharynx detection with python](https://github.com/201411108/pharynx_detection)
 
 * [My Eyes!, Android application](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
-* [dodolist, iOS application, not deployed](https://github.com/sweatpotato13/dodoList)
+* [dodolist, iOS application](https://github.com/sweatpotato13/dodoList)
 
 ### Contacts
 
