@@ -48,6 +48,8 @@
 
 * Away from coding at Sunday
 
-<p align="center">
-![Github stats](https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true)
-</p>
+<a href="https://github.com/201411108"/>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true"/>
+ </p>
+</a>
