@@ -30,13 +30,25 @@
 
 ### ⌨️ Projects
 
-* [React Native toy project](https://github.com/sweatpotato13/some_project)
+* Find intermediate point(Title undetermined)
+  * Javascript, React Native
+  * Find proper intermediate place when make meetings
+  * [For more informations](https://github.com/sweatpotato13/some_project)
 
-* [pharynx detection with python](https://github.com/201411108/pharynx_detection)
+* pharynx detection
+  * Python, OpenCV
+  * Detect pharynx from animals' CZI Images
+  * [For more informations](https://github.com/201411108/pharynx_detection)
 
-* [My Eyes!, Android application](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
+* Black
+  * Kotlin, Android(Deployed in Google Play Store)
+  * Protect your eye against smartphone screen
+  * [For more informations](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
-* [dodolist, iOS application](https://github.com/sweatpotato13/dodoList)
+* dodolist
+  * Swift5, iOS(not Deployed in App Store)
+  * Todolist
+  * [For more informations](https://github.com/sweatpotato13/dodoList)
 
 ### Contacts
 
