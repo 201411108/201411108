@@ -1,6 +1,6 @@
 # Handong Kim
 
-## 🙋‍♂️Who I am?
+## 🙋‍♂️Who am I?
 
 * Novice developer who
   * aspires to <b>growing up</b>
