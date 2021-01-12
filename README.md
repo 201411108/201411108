@@ -30,25 +30,30 @@
 
 ### ⌨️ Projects
 
-* Find intermediate point(Title undetermined)
+* Find intermediate point(Title undetermined)(2020.11 ~)
   * Javascript, React Native
   * Find proper intermediate place when make meetings
   * [For more informations](https://github.com/sweatpotato13/some_project)
 
-* pharynx detection
+* pharynx detection(2020.09 ~)
   * Python, OpenCV
   * Detect pharynx from animals' CZI Images
   * [For more informations](https://github.com/201411108/pharynx_detection)
 
-* Black
+* dodolist(2020. 04 ~ 2020. 05)
+  * Swift5, iOS(not Deployed in App Store)
+  * Todolist
+  * [For more informations](https://github.com/sweatpotato13/dodoList)
+
+* Black(2019. 10 ~ 2020. 01)
   * Kotlin, Android(Deployed in Google Play Store)
   * Protect your eye against smartphone screen
   * [For more informations](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
-* dodolist
-  * Swift5, iOS(not Deployed in App Store)
-  * Todolist
-  * [For more informations](https://github.com/sweatpotato13/dodoList)
+* Capstone design project(2019. 01 ~ 2019. 12)
+  * Python, HTML, CSS, Javascript, Django
+  * Detecting harmful videos in YouTube
+  * Repository archived
 
 ### Contacts
 
