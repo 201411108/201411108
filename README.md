@@ -38,6 +38,7 @@
 * pharynx detection(2020.09 ~)
   * Python, OpenCV
   * Detect pharynx from animals' CZI Images
+  * Using goturn and Yolo v3
   * [For more informations](https://github.com/201411108/pharynx_detection)
 
 * dodolist(2020. 04 ~ 2020. 05)
