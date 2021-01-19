@@ -1,5 +1,15 @@
 # Handong Kim
 
+<h3 align="center">Contacts</h3>
+<p align="center">
+ <a href="https://firsteast.tistory.com/">
+   <img src="https://img.shields.io/badge/-Tech%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://firsteast.tistory.com/"/>
+ </a>
+  <a href="sw.engineering@kakao.com">
+   <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
+ </a>
+</p>
+
 ## 🙋‍♂️Who am I?
 
 * Novice developer who
@@ -56,20 +66,6 @@
   * Detecting harmful videos in YouTube
   * Repository archived
 
-### Contacts
-
-<p align="center">
- <a href="sw.engineering@kakao.com">
-   <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
- </a>
- <a href="https://firsteast.tistory.com/">
-   <img src="https://img.shields.io/badge/-Tech%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://firsteast.tistory.com/"/>
- </a>
-</p>
-
-### Etc.
-
-* Away from coding at Sunday
 
 <a href="https://github.com/201411108"/>
  <p align="center">
