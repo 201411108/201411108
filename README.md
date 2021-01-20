@@ -40,10 +40,11 @@
 
 ### ⌨️ Projects
 
-* Find intermediate point(Title undetermined)(2020.11 ~)
+* Where We Meet(2020.11 ~)
   * Javascript, React Native
+  * Typescript, Nest.js
   * Find proper intermediate place when make meetings
-  * [For more informations](https://github.com/sweatpotato13/some_project)
+  * [For more informations](https://github.com/sweatpotato13/WhereWeMeet)
 
 * pharynx detection(2020.09 ~)
   * Python, OpenCV
