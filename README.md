@@ -1,14 +1,11 @@
 # Handong Kim
+<a href="https://firsteast.tistory.com/">
+  <img src="https://img.shields.io/badge/-Tech%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://firsteast.tistory.com/"/>
+</a>
+ <a href="sw.engineering@kakao.com">
+  <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
+</a>
 
-<h3 align="center">Contacts</h3>
-<p align="center">
- <a href="https://firsteast.tistory.com/">
-   <img src="https://img.shields.io/badge/-Tech%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://firsteast.tistory.com/"/>
- </a>
-  <a href="sw.engineering@kakao.com">
-   <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
- </a>
-</p>
 
 ## 🙋‍♂️Who am I?
 
