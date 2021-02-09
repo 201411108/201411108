@@ -51,17 +51,17 @@
 
 * dodolist(2020. 04 ~ 2020. 05)
   * Swift5, iOS(not Deployed in App Store)
-  * Todolist
+  * Todolist application
   * [For more informations](https://github.com/sweatpotato13/dodoList)
 
 * Black(2019. 10 ~ 2020. 01)
-  * Kotlin, Android(Deployed in Google Play Store)
+  * Kotlin, Android(Deployed in Google Play Store), Firebase
   * Protect your eye against smartphone screen
   * [For more informations](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
 * Capstone design project(2019. 01 ~ 2019. 12)
   * Python, HTML, CSS, Javascript, Django
-  * Detecting harmful videos in YouTube
+  * Detecting harmful videos in YouTube using Machine Learning
   * Repository archived
 
 
