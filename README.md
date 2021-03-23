@@ -37,31 +37,44 @@
 
 ### ⌨️ Projects
 
-* Where We Meet(2020.11 ~)
+* Where We Meet(2020.11 ~ 2021.01)
   * Javascript, React Native
-  * Typescript, Nest.js
-  * Find proper intermediate place when make meetings
+  * Find the proper intermediate place when we make an appointment
+  * Developer
+    * implement address search function(including road addr)
+    * implement marker add/delete fucntion that marks selected or searched points
   * [For more informations](https://github.com/sweatpotato13/WhereWeMeet)
 
-* pharynx detection(2020.09 ~)
+* pharynx detection(2020.09 ~ 2021.02)
   * Python, OpenCV
   * Detect pharynx from animals' CZI Images
   * Using goturn and Yolo v3
+  * Developer
+    * implement whole functions
   * [For more informations](https://github.com/201411108/pharynx_detection)
 
 * dodolist(2020. 04 ~ 2020. 05)
   * Swift5, iOS(not Deployed in App Store)
   * Todolist application
+  * Developer
+    * implement changing font size, dark mode, notification functions
   * [For more informations](https://github.com/sweatpotato13/dodoList)
 
 * Black(2019. 10 ~ 2020. 01)
   * Kotlin, Android(Deployed in Google Play Store), Firebase
   * Protect your eye against smartphone screen
+  * Developer
+    * implement eye health information activity classes
+    * connect the app with Google Firebase
   * [For more informations](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
 
 * Capstone design project(2019. 01 ~ 2019. 12)
   * Python, HTML, CSS, Javascript, Django
   * Detecting harmful videos in YouTube using Machine Learning
+  * PM
+    * control the whole project
+    * implement Frontend using HTML, CSS, Javascript
+    * implement Backend using Django
   * Repository archived
 
 
