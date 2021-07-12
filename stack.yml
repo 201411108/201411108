@@ -20,9 +20,45 @@
   projects:
           - url: https://github.com/201411108/Remoters
 
-- name: ReactNative
+- name: React Native
   logo: react
   url: https://reactnative.dev/
   color: 61DAFB
   projects: 
           - url: https://github.com/201411108/WhereWeMeet
+
+- name: Swift
+  logo: swift
+  url: https://swift.org/
+  color: E45530
+  projects:
+          - url: https://github.com/201411108/dodoList
+
+- name: Java
+  logo: java
+  url: https://www.java.com/
+  color: E0234E
+  projects:
+          - url: https://github.com/201411108/GollaHobby
+
+- name: Kotlin
+  logo: kotlin
+  url: https://kotlinlang.org/
+  color: E0234#
+  projects:
+          - url: https://github.com/201411108/Black-Android-app-for-eye
+
+- name: Android
+  logo: android
+  url: https://developer.android.com/
+  color: E0234E
+  projects:
+          - url: https://github.com/201411108/GollaHobby
+          - url: https://github.com/201411108/Black-Android-app-for-eye
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: 23911F
+  projects:
+          - url: https://github.com/201411108/Team-K_5-Src
