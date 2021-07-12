@@ -82,11 +82,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true"/>
  </p>
 </a>
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) | [![Mutnemom](https://img.shields.io/static/v1?label=&message=Mutnemom&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Mutnemom) [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/WhereWeMeet) |
-| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Remoters](https://img.shields.io/static/v1?label=&message=Remoters&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Remoters) |
-| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://ko.reactjs.org/) | [![Remoters](https://img.shields.io/static/v1?label=&message=Remoters&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Remoters) |
-| [![React Native](https://img.shields.io/static/v1?label=&message=React Native&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactnative.dev/) | [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/WhereWeMeet) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
