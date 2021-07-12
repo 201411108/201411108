@@ -20,7 +20,7 @@
   projects:
           - url: https://github.com/201411108/Remoters
 
-- name: React Native
+- name: React-Native
   logo: react
   url: https://reactnative.dev/
   color: 61DAFB
@@ -44,7 +44,7 @@
 - name: Kotlin
   logo: kotlin
   url: https://kotlinlang.org/
-  color: E0234#
+  color: E0234E
   projects:
           - url: https://github.com/201411108/Black-Android-app-for-eye
 
