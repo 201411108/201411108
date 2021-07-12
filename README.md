@@ -82,6 +82,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true"/>
  </p>
 </a>
+
+### Projects
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
