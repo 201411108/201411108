@@ -59,6 +59,6 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: 23911F
+  color: #3C78A9
   projects:
           - url: https://github.com/201411108/Team-K_5-Src
