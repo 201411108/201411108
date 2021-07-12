@@ -20,7 +20,7 @@
   projects:
           - url: https://github.com/201411108/Remoters
 
-- name: React Native
+- name: ReactNative
   logo: react
   url: https://reactnative.dev/
   color: 61DAFB
