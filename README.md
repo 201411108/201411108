@@ -36,45 +36,19 @@
 
 ### ⌨️ Projects
 
-* Where We Meet(2020.11 ~ 2021.01)
-  * Javascript, React Native
-  * Find the proper intermediate place when we make an appointment
-  * Developer
-    * implement address search function(including road addr)
-    * implement marker add/delete fucntion that marks selected or searched points
-  * [For more informations](https://github.com/sweatpotato13/WhereWeMeet)
-
-* pharynx detection(2020.09 ~ 2021.02)
-  * Python, OpenCV
-  * Detect pharynx from animals' CZI Images
-  * Using goturn and Yolo v3
-  * Developer
-    * implement whole functions
-  * [For more informations](https://github.com/201411108/pharynx_detection)
-
-* dodolist(2020. 04 ~ 2020. 05)
-  * Swift5, iOS(not Deployed in App Store)
-  * Todolist application
-  * Developer
-    * implement changing font size, dark mode, notification functions
-  * [For more informations](https://github.com/sweatpotato13/dodoList)
-
-* Black(2019. 10 ~ 2020. 01)
-  * Kotlin, Android(Deployed in Google Play Store), Firebase
-  * Protect your eye against smartphone screen
-  * Developer
-    * implement eye health information activity classes
-    * connect the app with Google Firebase
-  * [For more informations](https://play.google.com/store/apps/details?id=com.SmuEMSW.smumyeyes)
-
-* Capstone design project(2019. 01 ~ 2019. 12)
-  * Python, HTML, CSS, Javascript, Django
-  * Detecting harmful videos in YouTube using Machine Learning
-  * PM
-    * control the whole project
-    * implement Frontend using HTML, CSS, Javascript
-    * implement Backend using Django
-  * Repository archived
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) | [![Mutnemom](https://img.shields.io/static/v1?label=&message=Mutnemom&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Mutnemom) [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/WhereWeMeet) |
+| [![Typescript](https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![Remoters](https://img.shields.io/static/v1?label=&message=Remoters&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Remoters) |
+| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://ko.reactjs.org/) | [![Remoters](https://img.shields.io/static/v1?label=&message=Remoters&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Remoters) |
+| [![React-Native](https://img.shields.io/static/v1?label=&message=React-Native&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactnative.dev/) | [![WhereWeMeet](https://img.shields.io/static/v1?label=&message=WhereWeMeet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/WhereWeMeet) |
+| [![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=E45530&logo=swift&logoColor=FFFFFF)](https://swift.org/) | [![dodoList](https://img.shields.io/static/v1?label=&message=dodoList&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/dodoList) |
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=E0234E&logo=java&logoColor=FFFFFF)](https://www.java.com/) | [![GollaHobby](https://img.shields.io/static/v1?label=&message=GollaHobby&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/GollaHobby) |
+| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=E0234E&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![Black-Android-app-for-eye](https://img.shields.io/static/v1?label=&message=Black-Android-app-for-eye&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Black-Android-app-for-eye) |
+| [![Android](https://img.shields.io/static/v1?label=&message=Android&color=E0234E&logo=android&logoColor=FFFFFF)](https://developer.android.com/) | [![GollaHobby](https://img.shields.io/static/v1?label=&message=GollaHobby&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/GollaHobby) [![Black-Android-app-for-eye](https://img.shields.io/static/v1?label=&message=Black-Android-app-for-eye&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Black-Android-app-for-eye) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=23911F&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Team-K_5-Src](https://img.shields.io/static/v1?label=&message=Team-K_5-Src&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Team-K_5-Src) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
 <a href="https://github.com/201411108"/>
