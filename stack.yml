@@ -1,0 +1,28 @@
+- name: Javascript
+  logo: javascript
+  url: https://www.javascript.com/
+  color: F1E05A
+  projects:
+          - url: https://github.com/201411108/Mutnemom
+          - url: https://github.com/201411108/WhereWeMeet
+
+- name: Typescript
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: 3178C6
+  projects:
+          - url: https://github.com/201411108/Remoters
+
+- name: React
+  logo: react
+  url: https://ko.reactjs.org/
+  color: 61DAFB
+  projects:
+          - url: https://github.com/201411108/Remoters
+
+- name: React Native
+  logo: react
+  url: https://reactnative.dev/
+  color: 61DAFB
+  projects: 
+          - url: https://github.com/201411108/WhereWeMeet
