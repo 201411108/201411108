@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Android-informational"/>
   <img src="https://img.shields.io/badge/-React-yellow"/>
   <img src="https://img.shields.io/badge/-React%20Native-blue"/><br>
-  <img src="https://img.shields.io/badge/-Agile-black"/>
   <img src="https://img.shields.io/badge/-Git-black"/>
   <img src="https://img.shields.io/badge/-Notion-black"/>
   <img src="https://img.shields.io/badge/-Slack-black"/>
