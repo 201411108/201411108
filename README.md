@@ -23,13 +23,15 @@
 
 <h3 align="center">Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-kotlin-informational"/>
   <img src="https://img.shields.io/badge/-javascript-yellow"/>
   <img src="https://img.shields.io/badge/-typescript-blue"/>
-  <img src="https://img.shields.io/badge/-python-brightgreen"/><br>
-  <img src="https://img.shields.io/badge/-Android-informational"/>
+  <img src="https://img.shields.io/badge/-kotlin-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-swift-orange"/>
+  <img src="https://img.shields.io/badge/-python-blueviolet"/><br>
   <img src="https://img.shields.io/badge/-React-yellow"/>
-  <img src="https://img.shields.io/badge/-React%20Native-blue"/><br>
+  <img src="https://img.shields.io/badge/-React%20Native-blue"/>
+  <img src="https://img.shields.io/badge/-Android-yellowgreen"/>
+  <img src="https://img.shields.io/badge/-iOS-orange"/><br>
   <img src="https://img.shields.io/badge/-Git-black"/>
   <img src="https://img.shields.io/badge/-Notion-black"/>
   <img src="https://img.shields.io/badge/-Slack-black"/>
