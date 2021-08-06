@@ -19,7 +19,7 @@
   * loves to <b>work with other developers</b>
   * is interested in variety of areas
 
-* Graduate student majoring in computer science, especially software engineering
+* Graduate student majoring in <b>software engineering with machine learning and deep learning</b>(will graduate on Feb, 2022)
 
 <h3 align="center">Skills</h3>
 <p align="center">
