@@ -12,10 +12,9 @@
 
 ## 🙋‍♂️Who am I?
 
-* Novice developer who
+* Software engineer who
   * aspires to <b>growing up</b>
-  * does anything to <b>improve own skills</b>
-  * wants to <b>writing clean codes</b>
+  * loves to <b>improve own skills</b>
   * loves to <b>work with other developers</b>
   * is interested in variety of areas
 
