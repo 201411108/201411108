@@ -18,7 +18,9 @@
   * loves to <b>work with other developers</b>
   * is interested in variety of areas
 
-* Graduate student majoring in <b>software engineering with machine learning and deep learning</b>(will graduate on Feb, 2022)
+* Education🎓
+  * Master - <b>software engineering with machine learning and deep learning</b>(2020.03 ~ 2022.02)
+  * Bachelor - <b>Computer Science</b>(2014.03 ~ 2020.02, millitary service in 2017.03 ~ 2018.12)
 
 <h3 align="center">Skills</h3>
 <p align="center">
