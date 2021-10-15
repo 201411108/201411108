@@ -11,6 +11,7 @@
   url: https://www.typescriptlang.org/
   color: 3178C6
   projects:
+          - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
           - url: https://github.com/201411108/free-onboarding-course
           - url: https://github.com/jiminAn/Coin_Auto_Traiding
@@ -20,6 +21,7 @@
   url: https://ko.reactjs.org/
   color: 61DAFB
   projects:
+          - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
           - url: https://github.com/201411108/free-onboarding-course
           - url: https://github.com/jiminAn/Coin_Auto_Traiding
@@ -67,3 +69,4 @@
   color: #3C78A9
   projects:
           - url: https://github.com/201411108/Team-K_5-Src
+          - url: https://github.com/201411108/pharynx_detection
