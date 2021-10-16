@@ -14,7 +14,7 @@
 
 ---
 
-> Frontend developer and Software engineer 
+> Frontend developer and Software engineer <br>
 > Person who always achives dreams and be more advanced than yesterday.
 
 ### 💻 Skills
