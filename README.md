@@ -1,4 +1,5 @@
 # Handong Kim
+<p>
 <a href="https://firsteast.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-firsteastlab-lightgrey?style=plastic-square&logo=tistory&link=https://firsteast.tistory.com/"/>
 </a>
@@ -9,6 +10,7 @@
 <a href="https://solved.ac/daohandong">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=daohandong"/>
 </a>
+</p>
 
 ---
 
@@ -17,19 +19,22 @@
 
 ### 💻 Skills
 #### Fluent
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=blueviolet&logo=python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=000605&logo=github"/>
-<img src="https://img.shields.io/static/v1?label=&message=notion&color=lightgray&logo=notion&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=notion&color=lightgray&logo=notion&logoColor=FFFFFF"/></p>
 
 #### Advanced
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=blue&logo=kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Android&color=brightgreen&logo=android&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=important&logo=pytorch&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=important&logo=pytorch&logoColor=FFFFFF"/></p>
 
 #### Basic
+<p>
 <img src="https://img.shields.io/static/v1?label=&message=ReactNavite&color=61DAFB&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Redux&color=blueviolet&logo=redux&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Swift&color=orange&logo=swift&logoColor=FFFFFF"/>
