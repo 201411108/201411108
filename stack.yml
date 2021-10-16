@@ -26,7 +26,7 @@
           - url: https://github.com/201411108/free-onboarding-course
           - url: https://github.com/jiminAn/Coin_Auto_Traiding
 
-- name: React-Native
+- name: ReactNative
   logo: react
   url: https://reactnative.dev/
   color: 61DAFB
@@ -51,14 +51,14 @@
 - name: Kotlin
   logo: kotlin
   url: https://kotlinlang.org/
-  color: E0234E
+  color: blueviolet
   projects:
           - url: https://github.com/201411108/Black-Android-app-for-eye
 
 - name: Android
   logo: android
   url: https://developer.android.com/
-  color: E0234E
+  color: brightgreen
   projects:
           - url: https://github.com/201411108/GollaHobby
           - url: https://github.com/201411108/Black-Android-app-for-eye
@@ -66,7 +66,7 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: #3C78A9
+  color: blueviolet
   projects:
           - url: https://github.com/201411108/Team-K_5-Src
           - url: https://github.com/201411108/pharynx_detection

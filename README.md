@@ -1,44 +1,41 @@
 # Handong Kim
 <a href="https://firsteast.tistory.com/">
-  <img src="https://img.shields.io/badge/-Tech%20Blog-lightgrey?style=flat-square&logo=tistory&link=https://firsteast.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Tech%20Blog-firsteastlab-lightgrey?style=plastic-square&logo=tistory&link=https://firsteast.tistory.com/"/>
 </a>
- <a href="sw.engineering@kakao.com">
-  <img src="https://img.shields.io/badge/Email-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=sw.engineering@kakao.com"/>
-</a>
+<img src="https://img.shields.io/badge/Email-aggsae@gmail.com-important?styleplastict-square&logo=Gmail&logoColor=white"/>
  <a href="https://firsteast.notion.site/Handong-Kim-9f2dfcc0536e45149f568ac53db0612c">
-  <img src="https://img.shields.io/badge/CV-lightgrey?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CV-HandongKim-lightgrey?style=plastic-square&logo=notion&logoColor=white"/>
+</a>
+<a href="https://solved.ac/daohandong">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=daohandong"/>
 </a>
 
+---
 
-## 🙋‍♂️Who am I?
+> Frontend developer and Software engineer 
+> Person who always achives dreams and be more advanced than yesterday.
 
-* Software engineer who
-  * aspires to <b>growing up</b>
-  * loves to <b>improve own skills</b>
-  * loves to <b>work with other developers</b>
-  * is interested in variety of areas
+### 💻 Skills
+#### Fluent
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Python&color=blueviolet&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Git&color=000605&logo=github"/>
+<img src="https://img.shields.io/static/v1?label=&message=notion&color=lightgray&logo=notion&logoColor=FFFFFF"/>
 
-* Education🎓
-  * Master - <b>software engineering with machine learning and deep learning</b>(2020.03 ~ 2022.02)
-  * Bachelor - <b>Computer Science</b>(2014.03 ~ 2020.02, millitary service in 2017.03 ~ 2018.12)
+#### Advanced
+<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=blue&logo=kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Android&color=brightgreen&logo=android&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=important&logo=pytorch&logoColor=FFFFFF"/>
 
-<h3 align="center">Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-javascript-yellow"/>
-  <img src="https://img.shields.io/badge/-typescript-blue"/>
-  <img src="https://img.shields.io/badge/-python-blueviolet"/>
-  <img src="https://img.shields.io/badge/-kotlin-yellowgreen"/>
-  <img src="https://img.shields.io/badge/-swift-orange"/><br>
-  <img src="https://img.shields.io/badge/-React-yellow"/>
-  <img src="https://img.shields.io/badge/-React%20Native-blue"/>
-  <img src="https://img.shields.io/badge/-pytorch-blueviolet"/>
-  <img src="https://img.shields.io/badge/-Android-yellowgreen"/>
-  <img src="https://img.shields.io/badge/-iOS-orange"/><br>
-  <img src="https://img.shields.io/badge/-Git-black"/>
-  <img src="https://img.shields.io/badge/-Notion-black"/>
-  <img src="https://img.shields.io/badge/-Slack-black"/>
+#### Basic
+<img src="https://img.shields.io/static/v1?label=&message=ReactNavite&color=61DAFB&logo=react&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Redux&color=blueviolet&logo=redux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Swift&color=orange&logo=swift&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=iOS&color=orange&logo=apple&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Slack&color=000605&logo=slack"/>
 </p>
-
 
 ### ⌨️ Projects
 
@@ -56,9 +53,19 @@
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=~&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Team-K_5-Src](https://img.shields.io/static/v1?label=&message=Team-K_5-Src&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/Team-K_5-Src) [![pharynx_detection](https://img.shields.io/static/v1?label=&message=pharynx_detection&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/201411108/pharynx_detection) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+### ETC
+* Education🎓
+  * Master - <b>Software engineering</b>(2020.03 ~ 2022.02)
+  * Bachelor - <b>Computer Science</b>(2014.03 ~ 2020.02)
 
 <a href="https://github.com/201411108"/>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=201411108&show_icons=true"/>
  </p>
 </a>
+
+<!-- 잔디가 꾸준히 쌓이면 추가
+<a href="https://github.com/201411108">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=201411108&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=201411108&theme=buefy&layout=compact&theme=dark" />
+</a> -->
