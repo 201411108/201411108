@@ -20,7 +20,7 @@
 ### 💻 Skills
 #### Fluent
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=blueviolet&logo=python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Git&color=000605&logo=github"/>
@@ -28,7 +28,7 @@
 
 #### Advanced
 <p>
-<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=blue&logo=kotlin&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Android&color=brightgreen&logo=android&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=important&logo=pytorch&logoColor=FFFFFF"/></p>
