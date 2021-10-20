@@ -13,7 +13,7 @@
   projects:
           - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
-          - url: https://github.com/201411108/free-onboarding-course
+          - url: https://github.com/201411108/global-navigation-bar
           - url: https://github.com/jiminAn/Coin_Auto_Traiding
 
 - name: React
@@ -23,7 +23,7 @@
   projects:
           - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
-          - url: https://github.com/201411108/free-onboarding-course
+          - url: https://github.com/201411108/global-navigation-bar
           - url: https://github.com/jiminAn/Coin_Auto_Traiding
 
 - name: ReactNative
