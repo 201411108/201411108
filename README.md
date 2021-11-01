@@ -37,6 +37,7 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=&message=ReactNavite&color=61DAFB&logo=react&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Redux&color=blueviolet&logo=redux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Django&color=brightgreen&logo=django&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Swift&color=orange&logo=swift&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=iOS&color=orange&logo=apple&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=Slack&color=000605&logo=slack"/>
