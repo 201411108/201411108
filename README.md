@@ -16,8 +16,7 @@
 </p>
 
 > Frontend developer and Software engineer <br>
-> Person who always achives dreams and be more advanced than yesterday.<br>
-> I'm #OPENTOWORK. Check my repositories, blog and CV and then Contact me!
+> I'm #OPENTOWORK. Please check my repositories, blog and CV. Contact me!
 
 ### 💻 Skills
 #### Fluent
