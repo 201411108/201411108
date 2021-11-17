@@ -11,20 +11,20 @@
   url: https://www.typescriptlang.org/
   color: 3178C6
   projects:
+          - url: https://github.com/jiminAn/Coin_Auto_Traiding
+          - url: https://github.com/201411108/global-navigation-bar
           - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
-          - url: https://github.com/201411108/global-navigation-bar
-          - url: https://github.com/jiminAn/Coin_Auto_Traiding
 
 - name: React
   logo: react
   url: https://ko.reactjs.org/
   color: 61DAFB
   projects:
+          - url: https://github.com/jiminAn/Coin_Auto_Traiding
+          - url: https://github.com/201411108/global-navigation-bar
           - url: https://github.com/201411108/react-typescript-bolierplate
           - url: https://github.com/201411108/Remoters
-          - url: https://github.com/201411108/global-navigation-bar
-          - url: https://github.com/jiminAn/Coin_Auto_Traiding
 
 - name: ReactNative
   logo: react
@@ -38,8 +38,8 @@
   url: https://swift.org/
   color: E45530
   projects:
-          - url: https://github.com/201411108/dodoList
           - url: https://github.com/201411108/swiftUI_tutorial
+          - url: https://github.com/201411108/dodoList
 
 - name: Java
   logo: java
@@ -47,6 +47,7 @@
   color: E0234E
   projects:
           - url: https://github.com/201411108/GollaHobby
+          - url: https://github.com/201411108/HowElec
 
 - name: Kotlin
   logo: kotlin
@@ -62,11 +63,12 @@
   projects:
           - url: https://github.com/201411108/GollaHobby
           - url: https://github.com/201411108/Black-Android-app-for-eye
+          - url: https://github.com/201411108/HowElec
 
 - name: Python
   logo: python
   url: https://www.python.org/
   color: blueviolet
   projects:
-          - url: https://github.com/201411108/Team-K_5-Src
           - url: https://github.com/201411108/pharynx_detection
+          - url: https://github.com/201411108/Team-K_5-Src
