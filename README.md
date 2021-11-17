@@ -15,7 +15,8 @@
   </a>
 </p>
 
-> Frontend developer and Software engineer <br>
+> Frontend developer who mainly use `ReactJS` <br>
+> Researcher who mainly study `Software Engineer` and `AI`(especially Computer Vision)<br>
 > I'm #OPENTOWORK. Please check my repositories, blog and CV. Contact me!
 
 ### 💻 Skills
