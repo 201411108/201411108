@@ -46,7 +46,7 @@
 </p>
 
 ### ⌨️ Projects
-
+> *NOTICE :: Some repositoires are private repository*
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
