@@ -15,36 +15,20 @@
   </a>
 </p>
 
-> Frontend developer who mainly use `ReactJS` <br>
+> Frontend developer with `ReactJS` <br>
+> rub shoulders with `Next.js` and `React Native`
 
-### 💻 Skills
-#### Fluent
-<p>
+
+<h3 align="center">💻 Skills</h3>
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/><br/>
 <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Python&color=blueviolet&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Git&color=000605&logo=github"/>
-<img src="https://img.shields.io/static/v1?label=&message=notion&color=lightgray&logo=notion&logoColor=FFFFFF"/></p>
-
-#### Advanced
-<p>
-<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Kotlin&color=blue&logo=kotlin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Android&color=brightgreen&logo=android&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Pytorch&color=important&logo=pytorch&logoColor=FFFFFF"/></p>
-
-#### Basic
-<p>
+<img src="https://img.shields.io/static/v1?label=&message=NextJS&color=000605&logo=Next.js&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/static/v1?label=&message=ReactNavite&color=61DAFB&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Redux&color=blueviolet&logo=redux&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Django&color=brightgreen&logo=django&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Swift&color=orange&logo=swift&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=iOS&color=orange&logo=apple&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Slack&color=000605&logo=slack"/>
 </p>
 
 ### ⌨️ Projects
-> *NOTICE :: Some repositoires are private repository*
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
