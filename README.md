@@ -15,8 +15,7 @@
   </a>
 </p>
 
-> Frontend developer with `ReactJS` <br>
-> rub shoulders with `Next.js` and `React Native`
+> Frontend developer with `React.js` & `Next.js`
 
 
 <h3 align="center">💻 Skills</h3>
