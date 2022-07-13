@@ -17,14 +17,19 @@
 
 > Frontend developer with `React.js` & `Next.js`
 
-<h3 align="center">💻 Skills</h3>
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=Typescript&color=3178C6&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=F1E05A&logo=javascript&logoColor=FFFFFF"/><br/>
-<img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=NextJS&color=000605&logo=Next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/static/v1?label=&message=ReactNavite&color=61DAFB&logo=react&logoColor=FFFFFF"/>
-</p>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+
+
+![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <a href="https://github.com/201411108"/>
  <p align="center">
