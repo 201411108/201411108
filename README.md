@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/handong-kim-0993681b0/">
     <img src="https://img.shields.io/badge/LinkedIn-HandongKim-3178C6?style=plastic-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://solved.ac/daohandong">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=daohandong"/>
-  </a>
 </p>
 
 > Frontend Engineer
