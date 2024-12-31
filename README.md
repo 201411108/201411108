@@ -1,8 +1,5 @@
 # Handong Kim
 <p>
-  <a href="https://firsteast.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-firsteastlab-lightgrey?style=plastic-square&logo=tistory&link=https://firsteast.tistory.com/"/>
-  </a>
   <a href="https://firsteast.notion.site/Handong-Kim-9f2dfcc0536e45149f568ac53db0612c">
     <img src="https://img.shields.io/badge/CV-HandongKim-lightgrey?style=plastic-square&logo=notion&logoColor=white"/>
   </a>
